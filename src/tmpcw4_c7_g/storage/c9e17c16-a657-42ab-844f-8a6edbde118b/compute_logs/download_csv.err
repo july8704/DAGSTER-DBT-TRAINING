@@ -1,0 +1,6 @@
+[32m2021-09-27 00:29:56[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - 23291 - download_csv - LOGS_CAPTURED - Started capturing logs for solid: download_csv.
+[32m2021-09-27 00:29:56[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - 23291 - download_csv - STEP_START - Started execution of step "download_csv".
+[32m2021-09-27 00:30:26[0m - dagster - [34mINFO[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - download_csv - Read 79 lines
+[32m2021-09-27 00:30:26[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - 23291 - download_csv - STEP_OUTPUT - Yielded output "result" of type "SimpleDataFrame". (Type check passed).
+[32m2021-09-27 00:30:26[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - 23291 - download_csv - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2021-09-27 00:30:26[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - c9e17c16-a657-42ab-844f-8a6edbde118b - 23291 - download_csv - STEP_SUCCESS - Finished execution of step "download_csv" in 30.65s.

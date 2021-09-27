@@ -1,0 +1,8 @@
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - LOGS_CAPTURED - Started capturing logs for solid: sort_by_calories.
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - STEP_START - Started execution of step "sort_by_calories".
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - LOADED_INPUT - Loaded input "cereals" using input manager "io_manager", from output "result" of step "download_csv"
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - STEP_INPUT - Got input "cereals" of type "SimpleDataFrame". (Type check passed).
+[32m2021-09-27 00:26:57[0m - dagster - [34mINFO[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - sort_by_calories - Most caloric cereal: Strawberry Fruit Wheats
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2021-09-27 00:26:57[0m - dagster - [34mDEBUG[0m - custom_type_pipeline - 274c4f87-837e-4332-9da1-2bde52117c59 - 23273 - sort_by_calories - STEP_SUCCESS - Finished execution of step "sort_by_calories" in 19ms.
